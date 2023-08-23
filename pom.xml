@@ -9,7 +9,7 @@
 	<artifactId>jakartaee.info</artifactId>
 	<version>0.9.99-omega</version>
 	<packaging>war</packaging>
-	<name>tomcat10hope Maven Webapp</name>
+	<name>Jakarta EE - Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 	<properties>
