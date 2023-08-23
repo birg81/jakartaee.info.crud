@@ -6,7 +6,7 @@
 >
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>mainpkg</groupId>
-	<artifactId>tomcat10hope</artifactId>
+	<artifactId>jakartaee.info</artifactId>
 	<version>0.9.99-omega</version>
 	<packaging>war</packaging>
 	<name>tomcat10hope Maven Webapp</name>
